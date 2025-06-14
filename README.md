@@ -3,7 +3,7 @@
 
 ### About Me
 
-I'm a **final-year Computer Science student** with a strong passion for **Artificial Intelligence**, specializing in **Computer Vision**. My academic journey has been dedicated to exploring and mastering cutting-edge AI technologies, focusing on their practical applications.
+I'm a **final-year Computer Science student** with a strong passion for **Artificial Intelligence**, specializing in **Computer Vision** and **Natural Language Processing**. My academic journey has been dedicated to exploring and mastering cutting-edge AI technologies, focusing on their practical applications.
 
 My capstone project, an **Indonesian image captioning model** using **Swin Transformer** and **Pre-trained Indonesian Large Language Models (IndoRoBERTa, IndoBART, & IndoGPT)**, showcases my commitment to building innovative AI solutions and my proficiency in deep learning frameworks. I'm always eager to learn new technologies and apply my skills to challenging problems.
 
