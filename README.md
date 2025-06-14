@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Juan Sebastian Gultom! 👋
+---
 
-<!--
-**Juansgultom/juansgultom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+I'm a **final-year Computer Science student** with a strong passion for **Artificial Intelligence**, specializing in **Computer Vision**. My academic journey has been dedicated to exploring and mastering cutting-edge AI technologies, focusing on their practical applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My capstone project, an **Indonesian image captioning model** using **Swin Transformer** and **Pre-trained Indonesian Large Language Models (IndoRoBERTa, IndoBART, & IndoGPT)**, showcases my commitment to building innovative AI solutions and my proficiency in deep learning frameworks. I'm always eager to learn new technologies and apply my skills to challenging problems.
+
+---
+
+### What I'm Doing
+
+* Currently developing an **Indonesian image captioning model** leveraging Swin Transformer and IndoBART.
+* Actively exploring advanced concepts in **Computer Vision** and **Natural Language Processing**.
+* Continuously expanding my knowledge in **deep learning architectures** and **machine learning algorithms**.
+
+---
+
+### Looking For
+
+I'm currently seeking **internship and full-time opportunities** in the field of **Artificial Intelligence**, particularly roles focused on **Computer Vision**, **Natural Language Processing**, or broader **Machine Learning Engineering**. I'm excited to contribute my skills to impactful projects and grow within a dynamic team.
+
+---
+
+### Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/juansgultom/])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[juangultom05@gmail.com])
+[![Instagram](https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/juansgultom/])
+[![X](https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white)]([https://x.com/juansgultomreal])
+---
