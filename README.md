@@ -13,7 +13,7 @@ My capstone project, an **Indonesian image captioning model** using **Swin Trans
 
 * Currently developing an **Indonesian image captioning model** leveraging **Swin Transformer** and **Pre-trained Indonesian Large Language Models (IndoRoBERTa, IndoBART, & IndoGPT)**.
 * Actively exploring advanced concepts in **Computer Vision** and **Natural Language Processing**.
-* Continuously expanding my knowledge in **deep learning architectures** and **machine learning algorithms**.
+* Continuously expanding my knowledge in **Deep Learning Architectures** and **Machine Learning Algorithms**.
 
 ---
 
